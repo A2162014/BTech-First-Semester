@@ -1,0 +1,3 @@
+using recursive
+eve - factorial
+odd - fibonaci
